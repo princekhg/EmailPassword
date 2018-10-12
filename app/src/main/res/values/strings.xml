@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmailPassword</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter password</string>
+    <string name="button">Activity A Button</string>
+    <string name="dispaly">Contents</string>
+
+</resources>
